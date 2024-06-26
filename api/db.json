@@ -1,0 +1,84 @@
+{
+  "Arrendatario" :[
+      {
+          "id": 1,
+          "correo": "hola@gmail.com",
+          "contraseña":"contraseña"
+      },
+      {
+          "id": 2,
+          "correo": "julio@outlook.com",
+          "contraseña":"password"
+      },
+      {
+          "id": 3,
+          "correo": "alme@hotmail.com",
+          "contraseña":"1234567"
+      },
+      {
+          "id": 4,
+          "correo": "edith@yahoo.com",
+          "contraseña":"contraseña"
+      },
+      {
+          "id": 5,
+          "correo": "upc@universidad",
+          "contraseña":"contraseña"
+      }
+  ],
+  "Propietario" :[
+      {
+          "id": 1,
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "correo": "juan.perez@yahoo.com",
+          "contraseña": "nosoyjuan",
+          "propiedadId": 4
+      },
+      {
+          "id": 1,
+          "nombre": "Maria",
+          "apellido": "Chang",
+          "correo": "mariac@apple.com",
+          "contraseña": "contraseña",
+          "propiedadId": 3
+      },
+      {
+          "id": 1,
+          "nombre": "Diego",
+          "apellido": "Carrion",
+          "correo": "Dc@yahoo.com",
+          "contraseña": "matematica",
+          "propiedadId": 2
+      },
+      {
+          "id": 1,
+          "nombre": "Lucia",
+          "apellido": "Lescano",
+          "correo": "Lelu@upc.edu.pe",
+          "contraseña": "universidad",
+          "propiedadId": 1
+      }
+  ],
+  "Propiedad" :[
+      {
+          "Titulo": "Centro de eventos, Surco",
+          "direccion": "Av. Primavera 101",
+          "descripcion": "Bonito lugar, podrian haber mejores remodelaciones",
+          "idCalificaciones": [2,4]
+      },{
+          "Titulo": "Centro de eventos, Surco",
+          "direccion": "Av. Primavera 101",
+          "descripcion": "Bonito lugar, podrian haber mejores remodelaciones",
+          "idCalificaciones": [2,4]
+      }
+
+  ],
+  "Calificaciones":[
+      {
+
+
+  }
+  ]    
+
+}
